@@ -1,5 +1,6 @@
 
-/* Your CSS Code here. */
+/* Your
+CSS Code here. */
 .main{
 	width: 200px;
 	background-color: purple;
@@ -9,6 +10,9 @@
 	font-size: 20px;
 	 text-decoration: underline;
 	
+}
+main{
+	padidng:10px;
 }
 #heading{
 	padding:10px;
